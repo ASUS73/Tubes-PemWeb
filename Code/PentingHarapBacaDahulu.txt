@@ -1,0 +1,13 @@
+kode-kode VERSI penyelesaian
+D: Dashboard
+Ap: Admin Profile
+St: Statistic
+P: Product
+Se: Setting
+L: Logout
+AU: Admin & User
+V(angka): Versi
+
+jika folder terdapat VERSI diatas itu artinya
+kode yang ada didalam folder tersebut sudah ada beberapa
+bagian yang sudah diselesaikan!
