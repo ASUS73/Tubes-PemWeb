@@ -107,7 +107,7 @@
 
 							if ($result) {
 								while ($row = mysqli_fetch_assoc($result)) {
-									if ($row["role"] === "1") {
+									if ($row["role"] === "1" || $row["role"] === "0") {
 										continue;
 									}
 									$id = $row["id"];
