@@ -6,6 +6,8 @@ P: Product
 Se: Setting
 L: Logout
 AU: Admin & User
+K: Karyawan
+P: Pelanggan
 V(angka): Versi
 
 jika folder terdapat VERSI diatas itu artinya
